@@ -1,6 +1,5 @@
 logo: M.A.Ulfat7.jpg
 theme: jekyll-theme-mistakes
-title: "Muhammad Asamullah Ulfat"
 description: "Data Analyst Portfolio"
 url: "https://asamullahulfat.github.io" # your GitHub Pages URL
 baseurl: "" # leave empty unless it's a project site
@@ -12,6 +11,5 @@ plugins:
 
 # Optional — customize more below:
 author:
-  name: "M. A. Ulfat"
-  avatar: "assets/profile.jpg"
-  bio: "Data Analyst | Insight Generation | Akhuwat Foundation"
+  name: "Muhammad Asamullah Ulfat"
+  avatar: "assets/profile.jpg" 
