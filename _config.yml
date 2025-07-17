@@ -1,13 +1,8 @@
 logo: M.A.Ulfat7.jpg
-theme: jekyll-theme-mistakes
+theme: jekyll-theme-minimal
 description: "Data Analyst Portfolio"
 url: "https://asamullahulfat.github.io" # your GitHub Pages URL
 baseurl: "" # leave empty unless it's a project site
-
-remote_theme: mmistakes/minimal-mistakes
-
-plugins:
-  - jekyll-include-cache
 
 # Optional — customize more below:
 author:
