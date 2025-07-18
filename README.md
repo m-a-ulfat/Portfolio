@@ -9,9 +9,7 @@
 Hello! I'm **Muhammad Asamullah Ulfat** 🤝, a passionate **Data Analyst** currently working at **Akhuwat Head Office** as an Associate Project Manager. With a BS in Information Technology (BSIT), I focus on turning raw data into meaningful insights that empower communities and support social impact initiatives. I specialize in data cleaning, visualization, dashboarding, and machine learning — and I'm always driven by the goal to make data useful, actionable, and transformative.
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
-
 *As a data analyst at one of Pakistan’s leading social organizations, I apply data science for impact-driven decisions.*
-
 **- ✅ Data Analysis & Predictive Modeling.**  
 I build analytical solutions to forecast outcomes — from loan default predictions to savings pattern analysis using supervised ML models.
 🔢 Perform data cleaning, transformation, and preprocessing using Python (Pandas, NumPy) and SQL
@@ -33,7 +31,7 @@ I build analytical solutions to forecast outcomes — from loan default predicti
 📁 Work with structured data in Excel, CSV, and relational databases
 
 📊 Create visualizations and dashboards in Power BI and Tableau to support decision-making
-
+![image](Form Fill.jpeg)
 **- ✅ Dashboard Reporting & Visualization.**  
 I design interactive dashboards in **Power BI** and **Tableau** to support strategic decisions at executive levels.
 
